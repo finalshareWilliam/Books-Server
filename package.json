@@ -1,0 +1,14 @@
+{
+  "name": "books-server",
+  "version": "1.0.0",
+  "description": "Curso de React Full Stack, utilizando node.js para o back-end. Realizado na Alura.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Souza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
